@@ -1,0 +1,15 @@
+.listContainer {
+    background-color: white;
+    border: black 2px solid;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+ul {
+    padding-inline-start: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    list-style-type: none;
+    padding: 0 10px 10px;
+}
